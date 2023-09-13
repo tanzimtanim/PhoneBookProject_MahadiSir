@@ -12,9 +12,9 @@ public:
 
 
 protected:
-    std::string firstName_;       // ^ Encapsulation:  variable
-    std::string lastName_;        // ^ Encapsulation:  variable
-    std::string phoneNumber_;     // ^ Encapsulation:  variable
+    std::string firstName_;       // Encapsulation:  variable
+    std::string lastName_;        // Encapsulation:  variable
+    std::string phoneNumber_;     // Encapsulation:  variable
 
 };
 
